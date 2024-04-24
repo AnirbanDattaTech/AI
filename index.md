@@ -1,4 +1,4 @@
-### Hi, welcome to my blog! I am Anirban, a Data Scientist, and AI and Gen AI solution architect.
+### Hi, welcome to my blog!
 
 <br/>
 I am Anirban, a Data Scientist, and AI and Gen AI solution architect.
